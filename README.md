@@ -2,7 +2,7 @@ Related paper
 =============
 ### DC-UNet: Rethinking the U-Net Architecture with Dual Channel Efficient CNN for Medical Images Segmentation
 
-`Citation` Ange Lou, **Shuyue Guan**, Murray Loew, "DC-UNet: rethinking the U-Net architecture with dual channel efficient CNN for medical image segmentation," Proc. SPIE 11596, Medical Imaging 2021: Image Processing, 115962T (15 February 2021); doi: 10.1117/12.2582338.
+`Citation` Ange Lou, Shuyue Guan, Murray Loew, "DC-UNet: rethinking the U-Net architecture with dual channel efficient CNN for medical image segmentation," Proc. SPIE 11596, Medical Imaging 2021: Image Processing, 115962T (15 February 2021); doi: 10.1117/12.2582338.
 
 [`Paper`](https://doi.org/10.1117/12.2582338) [`Arxiv`](https://arxiv.org/abs/2006.00414)
 
